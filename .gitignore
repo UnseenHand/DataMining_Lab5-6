@@ -1,5 +1,5 @@
 ﻿.idea/
-outputs/dataset/*
+outputs/dataset/**
 !outputs/dataset/dunn_index_analysis.png
 Lab5_data.csv
 postings.csv
